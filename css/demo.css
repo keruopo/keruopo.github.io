@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.section{
+    position: relative;
+    background: #ffffff;
+    overflow: hidden;
+
+}
+.section1{
+    background: url("http://pic36.nipic.com/20131221/16712256_201315529000_2.jpg") no-repeat center;
+    background-size: 100%;
+
+
+}
+.avatar{
+    margin-top: 150px;
+    margin-left: 10px;
+    float: left;
+}
+
+.introduce{
+    font-size: 30px;
+    font-family: 楷体;
+    margin-top: 700px;
+    margin-left: 300px;
+
+
+}
+
+.section2{
+    background: #cccccc;
+}
+.frame{
+    width: 100%
+    margin: 0 auto;
+}
+
+.picture1{
+    margin-top: 50px;
+    margin-left: 800px;
+
+}
+.picture2{
+    margin-top: 50px;
+    margin-left: 400px;
+
+
+}
+.boxwords{
+    text-indent:-2em;
+    color: chocolate;
+    font-size: 50px;
+    font-family: 楷体;
+    margin-top: 150px;
+    margin-left: 200px;
+    float: left;
+
+
+}
+.section3{
+    background: #dedede;
+}
+.words{
+    font-size: 30px;
+    font-family: 楷体;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.section4{
+    background: #cccccc;
+    background:url("../images/6a.jpg");
+    background-size: 100%;
+}
+#boxID{
+    margin-top: 100px;
+    margin-left: 600px;
+    background: #ffffff;
+    width: 400px;
+    height: 200px;
+
+    overflow: hidden;
+}
+.box{
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+
+}
+#box1,#box2,#box3,#box4{
+       font-size: 30px;
+       font-family: 楷体;
+       width: 100px;
+       height: 400px;
+       margin-top: 50px;
+       float: right;
+
+   }
